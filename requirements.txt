@@ -1,0 +1,10 @@
+google-genai
+pandas
+numpy
+yfinance
+ccxt
+rich
+openpyxl
+python-dotenv
+requests
+feedparser
