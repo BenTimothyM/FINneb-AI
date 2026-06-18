@@ -1,5 +1,5 @@
 
-# 📊 FINNEB AI: Agentic Financial Assistant Terminal Dashboard
+# FINNEB AI: Agentic Financial Assistant Terminal Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
